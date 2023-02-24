@@ -1,0 +1,17 @@
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.exe
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.deps.json
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.runtimeconfig.json
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.dll
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.pdb
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.csproj.AssemblyReference.cache
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.Form1.resources
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.csproj.GenerateResource.cache
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.AssemblyInfoInputs.cache
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.AssemblyInfo.cs
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.csproj.CoreCompileInputs.cache
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.dll
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\refint\GitTest.dll
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.pdb
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.genruntimeconfig.cache
+D:\Studies\4 семестр\КПО\Lab1\GitTest\GitTest\obj\Debug\net6.0-windows\ref\GitTest.dll
