@@ -8,6 +8,14 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Loaded="Grid_Loaded">
         <TextBox x:Name="Console" HorizontalAlignment="Left" Margin="435,264,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="342" Background="Black" Height="148" Foreground="White"/>
+        <DataGrid x:Name="dgInventory" AutoGenerateColumns="False" ItemsSource="{Binding inventory}" Margin="0,0,23,175">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название" Binding="{Binding Path=Name}"/>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Path=Description}"/>
+                <DataGridTextColumn Header="Вес" Binding="{Binding Path=Weight}"/>
+                <DataGridTextColumn Header="Цена" Binding="{Binding Path=Price}"/>
+            </DataGrid.Columns>
+        </DataGrid>
 
     </Grid>
 </Window>
