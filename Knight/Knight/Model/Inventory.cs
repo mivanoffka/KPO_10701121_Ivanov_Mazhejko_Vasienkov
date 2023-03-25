@@ -32,7 +32,6 @@ namespace Knight
 
         public Item GetCheapestItem()
         {
-            //Желательно добавить сюда обработку исключений, но мне лень
             Item cheapestItem = Items[0];
             foreach(Item item in Items)
             {
